@@ -26,7 +26,7 @@ header {
   padding: 30px;
   text-align: center;
   font-size: 1.4em;
-  background-color: #FFC1BD;
+  background-color: #E88A6D;
   color: white;
     
 }
@@ -34,11 +34,11 @@ header {
 main {
   flex: 1;
   padding: 20px;
-    background-color: #FAFFD6;
+    background-color: #FFD9C1;
 }
 
 nav {
-  background-color: #83A7CC;
+  background-color: #FFB485;
   padding: 20px;
 
 }
@@ -50,7 +50,7 @@ nav li {
 
 aside {
   padding: 20px;
-  background-color: #B37772;
+  background-color: #FFB485;
   color: white;
 }
 
@@ -63,7 +63,7 @@ footer {
   padding: 30px;
   text-align: center;
   font-size: 1.4em;
-  background-color: #FFC1BD;
+  background-color: #E88A6D;
   color: white;
 }
 
