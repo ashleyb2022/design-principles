@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Noticia+Text&display=swap');
 
+
 body {
-  font-family: 'Noticia Text', serif;
+ font-family: 'Noticia Text', serif;
 }
 
 .container {
@@ -27,6 +28,7 @@ header {
   font-size: 1.4em;
   background-color: #FFC1BD;
   color: white;
+    
 }
 
 main {
